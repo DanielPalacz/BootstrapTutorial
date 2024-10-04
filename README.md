@@ -16,3 +16,7 @@
 ######  - dev speed, etc
 
 # Bootstrap Grid System
+
+# Bootstrap components
+## Buttons
+## Cards
